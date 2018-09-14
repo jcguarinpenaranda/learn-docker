@@ -1,0 +1,14 @@
+{
+  "name": "@owsas/test-docker-server",
+  "version": "1.0.0",
+  "description": "Test server that contains a docker file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Camilo Guarín Peñaranda",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
